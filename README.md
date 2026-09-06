@@ -15,7 +15,7 @@
 - **Networking & IoT**: Wi-Fi 6 / 5 GHz / 2.4 GHz channel interference, mesh topologies, router configurations, DHCP/DNS, IoT smart home protocols & sensor connectivity.
 - **Systems & Automation**: Linux (GNOME Shell, systemd, bash/shell scripting), Windows administrative tools, event viewer logs, registry, Wayland & X11/Xorg display servers.
 - **Open-Source Development**: JavaScript (ES6+ / ESM), GJS, GNOME Shell extension architecture, Git/GitHub version control, CI/CD automated validation (CodeQL).
-- **Communication & Languages**: English (Fluent / Full Professional), Hebrew (Native / Bilingual), Russian (Native / Bilingual).
+- **Communication & Languages**: Hebrew (Native / Bilingual), English (Full Professional / Fluent), Russian (Full Professional / Fluent), Spanish (Professional Working Proficiency).
 
 ---
 
