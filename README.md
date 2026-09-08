@@ -5,7 +5,7 @@
 [![Location](https://img.shields.io/badge/Location-Israel-0038b8?style=flat)](https://github.com/nickotmazgin)
 [![Open To](https://img.shields.io/badge/Open%20To-Remote%20%7C%20Relocation-2ea44f?style=flat)](https://www.linkedin.com/in/nickotmazgin/)
 
-**Technical Support Specialist & IT Support** with extensive hands-on experience troubleshooting multi-platform operating systems (**Windows, Linux, macOS, iOS, Android**), diagnosing complex Wi-Fi/mesh networks and IoT smart hardware, and building open-source desktop software.
+**Technical Support Specialist & IT Support** with extensive hands-on experience troubleshooting multi-platform operating systems (**Windows, Linux, macOS, iOS, Android**), diagnosing complex Wi-Fi/mesh networks and IoT smart hardware, handling CRM workflows (**Salesforce**), leveraging modern AI tooling (**Cursor, Codex, Claude**), and building open-source desktop software.
 
 ---
 
@@ -13,9 +13,11 @@
 
 - **Technical Support & Diagnostics**: Cross-platform OS troubleshooting, root-cause isolation, crash analysis, driver/dependency conflict resolution, remote assistance & customer guidance.
 - **Networking & IoT**: Wi-Fi 6 / 5 GHz / 2.4 GHz channel interference, mesh topologies, router configurations, DHCP/DNS, IoT smart home protocols & sensor connectivity.
+- **CRM & Operations**: Salesforce CRM case workflows, ticketing documentation, technician dispatch/escalation & SLA resolution.
+- **AI & Developer Tooling**: Cursor, OpenAI Codex, Claude, ChatGPT (prompt engineering, technical evaluation, code review & QA automation).
 - **Systems & Automation**: Linux (GNOME Shell, systemd, bash/shell scripting), Windows administrative tools, event viewer logs, registry, Wayland & X11/Xorg display servers.
 - **Open-Source Development**: JavaScript (ES6+ / ESM), GJS, GNOME Shell extension architecture, Git/GitHub version control, CI/CD automated validation (CodeQL).
-- **Communication & Languages**: Hebrew (Native / Bilingual), English (Native / Bilingual), Russian (Full Professional / Fluent), Spanish (Professional Working Proficiency).
+- **Communication & Languages**: Hebrew (Native / Bilingual), English (Native / Bilingual), Russian (Full Professional / Fluent), Spanish (Professional Working Proficiency), French & German (Advanced Reading).
 
 ---
 
