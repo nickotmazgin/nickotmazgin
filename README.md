@@ -5,7 +5,7 @@
 [![Location](https://img.shields.io/badge/Location-Israel-0038b8?style=flat)](https://github.com/nickotmazgin)
 [![Open To](https://img.shields.io/badge/Open%20To-Remote%20%7C%20Relocation-2ea44f?style=flat)](https://www.linkedin.com/in/nickotmazgin/)
 
-**Technical Support Specialist & IT Support** with extensive hands-on experience troubleshooting multi-platform operating systems (**Windows, Linux, macOS, iOS, Android**), diagnosing complex Wi-Fi/mesh networks and IoT smart hardware, handling CRM workflows (**Salesforce**), leveraging modern AI tooling (**Cursor, Codex, Claude**), and building open-source desktop software for **Windows** and **GNOME / Linux**.
+**Technical & Customer Support Specialist** with 15+ years of combined technical support and service experience and extensive hands-on work troubleshooting multi-platform operating systems (**Windows, Linux, macOS, iOS, Android**), diagnosing complex Wi-Fi/mesh networks and IoT smart hardware, handling CRM workflows (**Salesforce**), leveraging modern AI tooling (**Cursor, Codex, Claude**), and building open-source desktop software for **Windows** and **GNOME / Linux**.
 
 ---
 
