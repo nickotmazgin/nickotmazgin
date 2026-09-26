@@ -22,11 +22,21 @@
 
 ---
 
+### 💼 Experience Highlights
+
+- **Electra Consumer Products** — Multilingual technical support: smart AC, Wi-Fi pairing, IoT & VRF systems; Salesforce CRM, technician dispatch (2024–2025)
+- **Gov.il Government Service Center** — Call center & technical support for government digital services (2013–2016)
+- **Talmor Office / Dead Sea Works** — Printer, scanner & fax technician (2018–2020)
+- **TenenGroup** — QA/QC inspector (2016–2018)
+- **Independent** — Cross-platform technical support & open-source development (2025–present)
+
+---
+
 ### 🚀 Featured Open-Source Projects
 
 | Project | Description | Compatibility | Status |
 | :--- | :--- | :---: | :---: |
-| **[FluentVoice Pro](https://github.com/nickotmazgin/fluentvoice-pro)** | Windows 11/10 system-tray TTS suite — Fluent UI Control Center, clipboard reader, neural + offline SAPI voices, hotkeys, attested ZIP + portable EXE. | Windows 11 · Windows 10 | [![Release](https://img.shields.io/github/v/release/nickotmazgin/fluentvoice-pro?color=blue)](https://github.com/nickotmazgin/fluentvoice-pro/releases/latest) |
+| **[FluentVoice Pro](https://github.com/nickotmazgin/fluentvoice-pro)** | Windows 11/10 system-tray TTS suite — 60 neural voices in 12 languages with smart language auto-routing, Direct Text Reader, Start with Windows, verified updates, attested ZIP + portable EXE. | Windows 11 · Windows 10 | [![Release](https://img.shields.io/github/v/release/nickotmazgin/fluentvoice-pro?color=blue)](https://github.com/nickotmazgin/fluentvoice-pro/releases/latest) |
 | **[ClipFlow Pro](https://github.com/nickotmazgin/clipflow-pro)** | Advanced clipboard history manager for GNOME Shell with searchable history, pins, stars, privacy filters & bulk export. | GNOME 45–50 · Wayland & X11 | [![Release](https://img.shields.io/github/v/release/nickotmazgin/clipflow-pro?color=blue)](https://github.com/nickotmazgin/clipflow-pro/releases/latest) |
 | **[Comfort Control EaseHub](https://github.com/nickotmazgin/comfort-control-easehub)** | GNOME panel menu for power actions, screenshots, Night Light, clipboard clearing and terminal-based updates. | GNOME 45–50 · Wayland & X11 | [![Release](https://img.shields.io/github/v/release/nickotmazgin/comfort-control-easehub?color=blue)](https://github.com/nickotmazgin/comfort-control-easehub/releases/latest) |
 | **[Numeric Clock](https://github.com/nickotmazgin/Linux-Numeric-Date-And-Clock)** | Configurable numeric panel date and clock with 12/24-hour time, optional seconds, seven presets and a live preview. | GNOME 45–50 · Wayland & X11 | [![Release](https://img.shields.io/github/v/release/nickotmazgin/Linux-Numeric-Date-And-Clock?color=blue)](https://github.com/nickotmazgin/Linux-Numeric-Date-And-Clock/releases/latest) |
