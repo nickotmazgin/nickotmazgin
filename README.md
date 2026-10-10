@@ -15,7 +15,7 @@
 - **Networking & IoT**: Wi-Fi 6 / 5 GHz / 2.4 GHz channel interference, mesh topologies, router configurations, DHCP/DNS, IoT smart home protocols & sensor connectivity.
 - **CRM & Operations**: Salesforce CRM case workflows, ticketing documentation, technician dispatch/escalation & SLA resolution.
 - **AI & Developer Tooling**: Cursor, OpenAI Codex, Claude, ChatGPT (prompt engineering, technical evaluation, code review & QA automation).
-- **Windows Desktop Software**: Python, CustomTkinter / Fluent UI, system tray apps, Edge TTS / SAPI OneCore, offline TTS (Piper, Kokoro / sherpa-onnx), packaging (PyInstaller, Scoop, winget), GitHub Actions attestations & release automation.
+- **Windows Desktop Software**: Python, CustomTkinter / Fluent UI, system tray apps, Edge TTS / SAPI OneCore, offline TTS (Piper, Kokoro / sherpa-onnx), packaging (PyInstaller, MSIX / Microsoft Store, Scoop, winget), GitHub Actions attestations & release automation.
 - **Systems & Automation**: Linux (GNOME Shell, systemd, bash/shell scripting), Windows administrative tools, event viewer logs, registry, Wayland & X11/Xorg display servers.
 - **Open-Source Development**: JavaScript (ES6+ / ESM), GJS, GNOME Shell extension architecture, Python, Git/GitHub version control, CI/CD automated validation (pytest, CodeQL).
 - **Communication & Languages**: Hebrew (Native / Bilingual), English (Native / Bilingual), Russian (Full Professional / Fluent), Spanish (Professional Working Proficiency), French & German (Advanced Reading).
@@ -24,11 +24,11 @@
 
 ### 💼 Experience Highlights
 
+- **Independent** — Cross-platform technical support & open-source development (2025–present)
 - **Electra Consumer Products** — Multilingual technical support: smart AC, Wi-Fi pairing, IoT & VRF systems; Salesforce CRM, technician dispatch (2024–2025)
-- **Gov.il Government Service Center** — Call center & technical support for government digital services (2013–2016)
 - **Talmor Office / Dead Sea Works** — Printer, scanner & fax technician (2018–2020)
 - **TenenGroup** — QA/QC inspector (2016–2018)
-- **Independent** — Cross-platform technical support & open-source development (2025–present)
+- **Gov.il Government Service Center** — Call center & technical support for government digital services (2013–2016)
 
 ---
 
