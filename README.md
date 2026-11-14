@@ -45,6 +45,14 @@
 
 ---
 
+### 🧩 GNOME extensions: GitHub only
+
+ClipFlow Pro, Comfort Control EaseHub and Numeric Clock are my own work: I'm their original author and copyright holder. "GNOME extension" means an add-on for the GNOME desktop; writing one doesn't make it GNOME's code. I publish them **only on GitHub** (links above).
+
+The old listings on extensions.gnome.org ([ClipFlow Pro #8793](https://extensions.gnome.org/extension/8793/clipflow-pro/), [Comfort Control #8603](https://extensions.gnome.org/extension/8603/comfort-control-easehub/), [Numeric Date And Clock #8566](https://extensions.gnome.org/extension/8566/numeric-clock/)) are outdated builds from my former account `nickotmazgin`, which I deleted in December 2025. They now show "MaintainerWanted" and I no longer control them, so please don't install them. I have asked GNOME, through the extensions.gnome.org issue tracker and the GNOME Foundation, to deactivate them or transfer them back to me; the request is still open. Builds published there by anyone else are not made, reviewed or supported by me. Each repository has the full ownership statement.
+
+---
+
 ### 🌐 Connect & Contact
 
 - **LinkedIn**: [linkedin.com/in/nickotmazgin](https://www.linkedin.com/in/nickotmazgin/)
